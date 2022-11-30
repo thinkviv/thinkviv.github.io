@@ -3397,6 +3397,7 @@ input, select, textarea {
 			transform: translateY(0);
 			opacity: 1;
 			margin: 0 0 1.3em 0;
+			border-bottom: solid 2px rgba(255, 255, 255, 0.125);			
 		}
 
 			#banner .logo .icon {
